@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(2, 2, 41);
+}
+h1{
+    font-size: 30px;
+    color: gold;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+h2{
+    font-size: 28px;
+    font-weight: 300;
+    color: goldenrod;
+}
+h3{
+    font-size: 25px;
+    font-weight: 200;
+    color: goldenrod;
+}
+p{
+    font-size: 22px;
+    color: white;
+    font-weight: 150;
+    line-height: 1.5;
+}
+.principal{
+    min-width: 200px;
+    max-width: 500px;
+    min-height: 250px;
+    max-height: 500px;
+    margin: 20px 30px 10px 15px;
+    padding: 10px 15px;
+    
+}
+.puntos ol{
+    font-size: 20px;
+    color: red;
+}
+.puntos ul{
+    font-size: 20px;
+    color: rebeccapurple;
+}
+#contacto{
+    font-size: 22px;
+    color: cadetblue;
+}
